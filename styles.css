@@ -1,0 +1,15 @@
+/*
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+*/
+
+.post {
+    background-color: #CCCCCC;    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom:20px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}

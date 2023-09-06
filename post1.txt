@@ -1,0 +1,32 @@
+<div class="post">
+    <h2>Languages, Stacks, and Services I Want to Learn and Master</h2>
+    <!-- <i>Posted on: September 5, 2023</i> | <i>Last edited: September 5, 2023</i> -->
+    <p>This post will be about technical languages, software stacks, and services I want to learn to use and master. It was inspired by my mamoo (maternal uncle), Hamza, who has been in the field for over a decade, and has been giving me advice, including sharing with me all the tech he wants to learn in the near future. The first half will be about the "technologies" (I will use this as an umbrella term for languages, stacks, and services) that I have learned the basics of that I want to master, and the second part will be about the new "technologies" that I want to start learning.</p>
+    <h3>New Tech I Want to Learn</h3>
+    <p>I will begin this section with new languages I want to learn. This will include not just programming languages, but other types of languages as well.</p>
+    <h4>LANGUAGES</h4>
+    <ol>
+        <li>SQL</li>
+        <li>Go</li>
+        <li>Rust</li>
+        <li>Haskell</li>
+        <li>Swift</li>
+        <li>Kotlin</li>
+        <li>TypeScript</li>
+    </ol>
+    <strong><p>1. SQL or another database language</p></strong>
+    <p>Currently, I have not learned a database language which is important to becoming a backend or fullstack engineer, that's why I need to learn SQL or another databse language ASAP.</p>
+    <strong><p>2. Go</p></strong>
+    <p>Go, also known as GoLang, is a statically typed, high-level programming language designed at Google. The reason I want to learn this language is I believe that it is the modern version of C: it is syntactically similar to C, but has memory safety, garbage collection, structural typing, and more features. I also believe that it is gaining popularity in the job industry, companies are moving from using old techonology to a stack with Go. Once I feel comfortable enough in C, I am planning on starting right away at learning the basics with Go.</p>
+    <strong><p>3. Rust</p></strong>
+    <p>Next is Rust, or RustLang. Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency. Rust enforces memory safety so that unsafe contexts are avoided. The reason I want to learn Rust is because, similarly to Go, it is the modern C++: it allows for low level interaction withe the hardware, but also has type safety and memory safety features wihout the need of a garbage collector, essentially allowing it to be memory safe, without being "memory safe". The reason I want to learn Rust is I am interested in how to make a kernel, compiler, and game engine, and for those tasks I would like to use Rust if I can.</p>
+    <strong><p>4. Haskell</p></strong>
+    <p>Haskell is a general-purpose, functional programming language. The reason I want to learn it is because I want to learn a functional language and I have heard nothing but good things about Haskell</p>
+    <strong><p>5. Swift & 6. Kotlin</p></strong>
+    <p>Swift is the programming language made by Apple to develop iOS applications. Kotlin is a programming language that runs on the Java Virtual Machine (JVM) and is used to create Android Applications. I included both of these together because I want to learn how to build mobile apps. The reason I picked Kotlin over Java is because I dislike the verbosity of Java, so if I had to pick a language that runs on JVM, I would pick Kotlin.</p>
+    <strong><p>7. TypeScript</p></strong>
+    <p>TypeScript is essentially JavaScript with static typing. The reason I want to learn this is because it might make me like using JavaScript more, and having TypeScript on your resume can show that you have also mastered JavaScript.</p>
+    <p>And that is it for the new languages I want to learn! Next are the software stacks I want to learn.</p>
+    <h4>TECH STACKS</h4>
+    <!-- continue post  -->
+</div>
